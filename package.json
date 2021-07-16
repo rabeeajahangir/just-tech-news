@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "start": "node server.js",
+  
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rabeeajahangir/just-tech-news.git"
+    "url": "https://github.com/rabeeajahangir/just-tech-news.git"
   },
   "author": "",
   "license": "ISC",

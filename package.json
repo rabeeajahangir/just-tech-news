@@ -3,24 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rabeeajahangir/just-tech-news.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rabeeajahangir/just-tech-news/issues"
-  },
-  "homepage": "https://github.com/rabeeajahangir/just-tech-news#readme",
   "dependencies": {
-    "dotenv": "^10.0.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.6.5"
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.22.4"
   }
 }
